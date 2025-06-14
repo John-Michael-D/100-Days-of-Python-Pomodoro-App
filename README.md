@@ -1,1 +1,1 @@
-# 100-Days-of-Code-Pomodoro-App
+This is a Pomodoro time management app. It helps the user manage their time more effectively by having the user orient their productivity on "rounds", which consists of a consequtive 25 minute work period followed by a 5 minute break period. For each completed round, a checkmark will appear at the bottom of the screen. After 4 working periods, the user is granted a 20 minute break. The user has the option of stopping the current timer and resetting their progress by clicking on the "Reset" button.
