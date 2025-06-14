@@ -59,6 +59,7 @@ def countDown(count):
         label1["text"] = "Timer"
         label1.place(x=50, y=-45)
         if count == 0 and label1["text"] == "Timer":
+            label2["text"] = "✓" * ((reps - 1) // 2)
             play(SOUND_EFFECT)
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
